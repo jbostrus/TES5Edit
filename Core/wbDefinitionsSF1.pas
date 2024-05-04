@@ -20345,7 +20345,7 @@ end;
     wbEDID,
     wbLStringKC(NNAM, ''),
     wbUnknown(BNAM),
-    wbArray(GOGL, '', wbFormIDCk('', [GPOF]))
+    wbArray(GOGL, '', wbFormIDCk('', [GPOF, GPOG]))
   ]);
 
   {subrecords checked against Starfield.esm}
